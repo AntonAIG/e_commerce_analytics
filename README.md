@@ -1,1 +1,2 @@
-# e_commerce_analytics
+# eCommerce and Analytics
+In this repository, I shall answere business questions, identify hidden trends and improve product quality by analysing customer logs, interpreting surveys, and reviewing product datasets. I personally am motivated to work on these kind of projects because I believe that I and my team can improve other people's life by understanding their preferences, suggest positive lifestyle changes, and improve our products and services.
